@@ -1,0 +1,39 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the capital of India?",
+      "options": ["Mumbai", "New Delhi", "Kolkata", "Chennai"],
+      "correct_answer": 1,
+      "points": 10
+    },
+    {
+      "id": 2,
+      "question": "Who wrote the Indian national anthem?",
+      "options": ["Mahatma Gandhi", "Rabindranath Tagore", "Subhash Chandra Bose", "Sardar Patel"],
+      "correct_answer": 1,
+      "points": 10
+    },
+    {
+      "id": 3,
+      "question": "Which is the largest state in India by area?",
+      "options": ["Maharashtra", "Uttar Pradesh", "Rajasthan", "Madhya Pradesh"],
+      "correct_answer": 2,
+      "points": 10
+    },
+    {
+      "id": 4,
+      "question": "When is India's Republic Day?",
+      "options": ["August 15", "October 2", "January 26", "November 14"],
+      "correct_answer": 2,
+      "points": 10
+    },
+    {
+      "id": 5,
+      "question": "Which river is known as the 'Ganga' of the South?",
+      "options": ["Krishna", "Kaveri", "Godavari", "Mahanadi"],
+      "correct_answer": 1,
+      "points": 10
+    }
+  ]
+}
